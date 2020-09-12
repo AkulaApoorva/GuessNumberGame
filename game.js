@@ -20,5 +20,5 @@ $submitButton.onclick = () => {
     }
     $message.style.display = "inherit";
     $message.innerHTML = message;
-    $lives.InnerHTML = liver;
+    $lives.InnerHTML = lives;
 }
